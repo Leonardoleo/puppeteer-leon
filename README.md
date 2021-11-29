@@ -4,6 +4,8 @@ This repo is for playing around with puppeteer and automate tests on a any websi
 
 Link/Resources:
 
+Web Scraping with Node.js:
+
 https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/
 
 What is web scraping:
