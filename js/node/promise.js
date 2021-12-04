@@ -1,1 +1,1 @@
-promise.all;
+// promise.all
