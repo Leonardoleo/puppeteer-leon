@@ -1,6 +1,6 @@
 # puppeteer-leon
 
-This repo is for playing around with puppeteer and automate tests on a any website using puppeteer. 
+This repo is for playing around with puppeteer and automate tests on any website using puppeteer. Just for fun and also for automated software tester role. 
 
 Link/Resources:
 
