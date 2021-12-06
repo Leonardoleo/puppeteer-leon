@@ -11,3 +11,7 @@ https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-j
 What is web scraping:
 
 https://www.youtube.com/watch?v=jkuRWcH1-kk
+
+https://www.youtube.com/watch?v=URV447zdgCc
+
+ Actually, should ** npm run start **
