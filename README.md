@@ -14,4 +14,4 @@ https://www.youtube.com/watch?v=jkuRWcH1-kk
 
 https://www.youtube.com/watch?v=URV447zdgCc
 
- Actually, should ** npm run start **
+For scraping-e-commerce-ludus folder, if let say wanna load the project, use npm run start instead. But, currently, receive some npm error. Will fix it.
