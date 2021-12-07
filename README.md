@@ -12,7 +12,7 @@ What is web scraping:
 
 https://www.youtube.com/watch?v=jkuRWcH1-kk
 
-Web Scraping ecommerce:
+Web Scraping ecommerce site:
 
 https://www.youtube.com/watch?v=URV447zdgCc
 
