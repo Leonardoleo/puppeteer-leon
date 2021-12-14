@@ -4,6 +4,10 @@ This repo is for playing around with puppeteer and automate tests on any website
 
 Link/Resources:
 
+https://www.toptal.com/puppeteer/headless-browser-puppeteer-tutorial
+
+https://javascript.plainenglish.io/web-scraping-101-intro-to-puppeteer-790ead85dd2
+
 Web Scraping with Node.js:
 
 https://www.freecodecamp.org/news/the-ultimate-guide-to-web-scraping-with-node-js-daa2027dcd3/
